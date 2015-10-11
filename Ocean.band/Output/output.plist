@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>album</key>
+	<string>ETBlue</string>
+	<key>artist</key>
+	<string>ETBlue</string>
+	<key>composer</key>
+	<string>ETBlue</string>
+	<key>encoding application</key>
+	<string>GarageBand for iOS 2.0.7</string>
+	<key>maxLength</key>
+	<real>0.0</real>
+	<key>settings</key>
+	<string>CbPrefs_exportPreset_aacSongHighQuality</string>
+	<key>tempo</key>
+	<string>90</string>
+	<key>title</key>
+	<string>Ocean</string>
+	<key>video</key>
+	<false/>
+	<key>year</key>
+	<string>2015</string>
+</dict>
+</plist>
