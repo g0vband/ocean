@@ -9,7 +9,8 @@
 
 ## 工作區 workspace
 
-- 線上試聽與重混 demo & remix: https://blend.io/etblue/ocean
+- 線上試聽暨最新版發佈網址 online demo & latest version: https://blend.io/etblue/ocean
+- 穩定版發佈網址 stable version： https://github.com/g0vband/ocean
 - 更多詳細資料 more info: https://g0v-band.hackpad.com/Ocean--WhwavWUIM00
 
 
