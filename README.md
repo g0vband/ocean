@@ -1,11 +1,15 @@
 # Ocean | 海洋
 
-關於一個尚未誕生的國家 —— 台灣 —— 的歌。 a song about a not yet born country ---- Taiwan.
+關於一個尚未誕生的國家——台灣——的歌。 a song about a not yet born country---- Taiwan.
 
 - 靈感來源 inspired by: 如果台灣的四周是海洋 / 郝明義 (rex how)
 - 語言 language: Mandarin
 - 作詞作曲 composer: ETBlue
-- 線上試聽 demo: https://blend.io/etblue/ocean
+
+
+## 工作區 workspace
+
+- 線上試聽與重混 demo & remix: https://blend.io/etblue/ocean
 - 更多詳細資料 more info: https://g0v-band.hackpad.com/Ocean--WhwavWUIM00
 
 
