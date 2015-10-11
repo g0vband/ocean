@@ -1,21 +1,22 @@
 # ocean
 
-靈感來源 inspired by: 如果台灣的四周是海洋 / 郝明義 (rex how)
-語言 language: Mandarin
-demo: https://blend.io/etblue/ocean
-more info: https://g0v-band.hackpad.com/Ocean--WhwavWUIM00
+- 靈感來源 inspired by: 如果台灣的四周是海洋 / 郝明義 (rex how)
+- 語言 language: Mandarin
+- demo: https://blend.io/etblue/ocean
+- more info: https://g0v-band.hackpad.com/Ocean--WhwavWUIM00
 
 
 ## licence
 
 2015 © ETBlue @ g0v band
 
-garageband source files: MPL 2.0
-audio files and documents: CC BY 4.0
+- garageband source files: MPL 2.0
+- audio files and documents: CC BY 4.0
 
 
 ## lyrics
 
+```
 
 --553-333-22-1-1--
 如果台灣的四周是海洋
@@ -75,5 +76,7 @@ audio files and documents: CC BY 4.0
 
 --553-332-2-11--21----
 因為台灣的四周是海洋
+
+```
 
 
