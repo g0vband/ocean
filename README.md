@@ -2,16 +2,13 @@
 
 關於一個尚未誕生的國家——台灣——的歌。 a song about a not yet born country---- Taiwan.
 
-- 靈感來源 inspired by: 如果台灣的四周是海洋 / 郝明義 (rex how)
+
+## 歌曲資訊 meta
+
+- 靈感來源 inspired by: 郝明義 (rex how)'s new book "如果台灣的四周是海洋 (if taiwan is surrounded by the sea)"
 - 語言 language: Mandarin
 - 作詞作曲 composer: ETBlue
-
-
-## 工作區 workspace
-
-- 線上試聽暨最新版發佈網址 online demo & latest version: https://blend.io/etblue/ocean
-- 穩定版發佈網址 stable version： https://github.com/g0vband/ocean
-- 更多詳細資料 more info: https://g0v-band.hackpad.com/Ocean--WhwavWUIM00
+- 演唱 artist: ETBlue
 
 
 ## 授權 licence
@@ -20,6 +17,19 @@
 
 - garageband source files: MPL 2.0
 - audio files and documents: CC BY 4.0
+
+
+## 格式 format
+
+- 工作檔格式 source files format: .band (Garageband iOS 版)
+- 聲音檔格式 audio files format: .m4a
+
+
+## 工作區 workspace
+
+- 線上試聽暨最新版發佈網址 online demo & latest version: https://blend.io/etblue/ocean
+- 穩定版發佈網址 stable version： https://github.com/g0vband/ocean
+- 更多詳細資料 more info: https://g0v-band.hackpad.com/Ocean--WhwavWUIM00
 
 
 ## 歌詞 lyrics
