@@ -11,7 +11,7 @@
 - 演唱 artist: ETBlue
 
 
-## 授權 licence
+## 授權 license
 
 2015 © ETBlue @ g0v band
 
